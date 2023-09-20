@@ -21,12 +21,12 @@ credits: '<p>Created by <a href="mailto:nguye714@msu.edu">Han Nguyen</a> with <a
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: Alan Munn
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://msu-language-acquisition-lab.github.io'
-baseurl: '/msu-language-acquisition-lab.github.io'
+baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Alan Munn     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Alan Munn     # Default author for posts
 
 
 
