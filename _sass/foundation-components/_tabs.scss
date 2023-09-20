@@ -43,7 +43,7 @@ $tabs-vertical-navigation-margin-bottom: 1.25rem !default;
             color: $tabs-navigation-bg-color;
           }
           color: $tabs-navigation-font-color;
-          padding: $tabs-navigation-padding $tabs-navigation-padding * 2;
+          padding: $tabs-navigation-padding calc($tabs-navigation-padding * 2);
           font-family: $tabs-navigation-font-family;
           font-size: $tabs-navigation-font-size;
           &:hover {

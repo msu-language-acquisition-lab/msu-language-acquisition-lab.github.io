@@ -60,7 +60,7 @@ $switch-active-color: $primary-color !default;
     color: transparent;
     background: $switch-bg;
     text-indent: 100%;
-    width: $switch-height-med * 2; height: $switch-height-med;
+    width: calc($switch-height-med * 2); height: $switch-height-med;
     cursor: pointer;
 
     // Transition for the switch label to follow paddle
