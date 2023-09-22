@@ -121,7 +121,7 @@ $switch-active-color: $primary-color !default;
 @mixin switch-size($height: $switch-height-med) {
 
   label {
-    width: $height * 2;
+    width: calc($height * 2);
     height: $height;
   }
 

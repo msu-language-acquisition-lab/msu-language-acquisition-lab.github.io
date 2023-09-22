@@ -27,7 +27,7 @@ $split-button-active-bg-tint: rgba(0,0,0,0.1) !default;
 $split-button-padding-tny: $button-pip-tny * 10 !default;
 $split-button-span-width-tny: $button-pip-tny * 6 !default;
 $split-button-pip-size-tny: $button-pip-tny !default;
-$split-button-pip-top-tny: $button-pip-tny * 2 !default;
+$split-button-pip-top-tny: calc($button-pip-tny * 2) !default;
 $split-button-pip-default-float-tny: rem-calc(-6) !default;
 
 // We use these to control small split buttons
