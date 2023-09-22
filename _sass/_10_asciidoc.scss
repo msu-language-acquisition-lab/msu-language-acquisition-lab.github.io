@@ -880,7 +880,7 @@ td.hdlist1 {
 
   &.thumb,
   &.th {
-    border-width: $thumb-border-width + ($thumb-border-width * .5);
+    border-width: $thumb-border-width + calc($thumb-border-width * .5);
     & > .title {
       padding: 0 emCalc(2px);
     }
