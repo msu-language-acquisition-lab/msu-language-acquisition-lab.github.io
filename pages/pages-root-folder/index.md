@@ -6,21 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: labpicture3.jpg
 widget1:
   title: "About us"
   url: '/about'
-  image: widget-1-302x182.jpg
+  image: wells2.jpg
   text: 'Learn more about Language Acquisition Lab at Michigan State University'
 widget2:
   title: "Research"
   url: '/'
-  image: widget-1-302x182.jpg
+  image: uuraf_050.jpg
   text: 'Current and past researches'
 widget3:
   title: "People"
   url: '/'
-  image: widget-github-303x182.jpg
+  image: perfectgroupatuuraft-e1559521647431.jpg
   text: ''
 #
 # Use the call for action to show a button on the frontpage

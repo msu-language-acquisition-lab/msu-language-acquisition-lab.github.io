@@ -38,7 +38,7 @@ baseurl: '/msu-language-acquisition-lab.github.io'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://msu-language-acquisition-lab.github.io/msu-language-acquisition-lab.github.io/images/'
+urlimg: 'https://msu-language-acquisition-lab.github.io/msu-language-acquisition-lab.github.io/assets/images/'
 
 
 # Logo size is 600x80 pixels

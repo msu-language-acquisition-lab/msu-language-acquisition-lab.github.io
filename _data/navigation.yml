@@ -7,7 +7,7 @@
   side: left
 
 - title: People
-  url: "/"
+  url: "/people"
   side: left
 
 - title: "Research"
@@ -35,7 +35,7 @@
     url: "/"
 
 - title: "News"
-  url: "/"
+  url: "/news"
   side: left
 
 - title: "Search"

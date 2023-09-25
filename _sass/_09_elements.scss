@@ -160,3 +160,7 @@ img.lazy {
     margin-top: -50px;
   }
 }
+
+.medium-4 {
+  width: percentage(calc(1 / 3));
+}
