@@ -11,17 +11,17 @@
   side: left
 
 - title: "Research"
-  url: "/headers/"
+  url: "/research"
   side: left
   dropdown:
   - title: "Current Projects"
     url: "/"
   - title: "Functional Categories"
-    url: "/"
+    url: "/research/functional-categories"
   - title: "Input Variability"
-    url: "/"
+    url: "/research/input-variability"
   - title: "Prosody and Syntax"
-    url: "/"
+    url: "/research/prosody-and-syntax/"
 
 - title: "Publications"
   url: "/"

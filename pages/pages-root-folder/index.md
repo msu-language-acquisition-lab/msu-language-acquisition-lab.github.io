@@ -14,7 +14,7 @@ widget1:
   text: 'Learn more about Language Acquisition Lab at Michigan State University'
 widget2:
   title: "Research"
-  url: '/'
+  url: '/research'
   image: uuraf_050.jpg
   text: 'Current and past researches'
 widget3:
