@@ -1,21 +1,28 @@
-- title: Home
+- title: "Home"
   url: "/"
   side: left
 
-- title: About
+- title: "About"
   url: "/about"
   side: left
 
-- title: People
+- title: "People"
   url: "/people"
   side: left
+  dropdown:
+  - title: "Current Faculty and Students"
+    url: "/people/current"
+  - title: "Graduate Alumni"
+    url: "/people/gradalumni"
+  - title: "Undergraduate Alumni"
+    url: "/people/undergradalumni"
 
-- title: "Research"
+- title: "Research" 
   url: "/research"
   side: left
   dropdown:
   - title: "Current Projects"
-    url: "/"
+    url: "/research"
   - title: "Functional Categories"
     url: "/research/functional-categories"
   - title: "Input Variability"
