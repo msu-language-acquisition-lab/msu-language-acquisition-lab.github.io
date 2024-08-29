@@ -6,7 +6,7 @@ subheadline         : "MSU Language Acquisition Lab"
 permalink           : "/people/gradalumni"
 ---
 
-# MSU PhD
+## MSU PhD
 
  - Ni La Le 2019
  - Hannah Forsythe 2017
@@ -16,9 +16,10 @@ permalink           : "/people/gradalumni"
  - Karen Miller 2007
  - Diane Ogiela 2006
 
-# MSU MA
+## MSU MA
 
  - Daniel Greeson 2021
+ - Adam Liter 2016
  - Yi-chen Lin 2016
  - Andrew Armstrong 2015
  - Mikyung Kim 2011
@@ -28,7 +29,7 @@ permalink           : "/people/gradalumni"
  - Carolina Holtheuer 2002
  - Karen Nagel 2001
 
-# Other institutions
+## Other institutions
 
  - Tatiane Macedo Costa, Unicamp, Brazil PhD 2016
  - Lucía Brandani, Universidad de Buenos Aires, Argentina, PhD 2013

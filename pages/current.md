@@ -31,4 +31,4 @@ The lab currently consists of the following people.
  - William McLaren
  
 
-[![labpicture3](assets/images/labpicture3.jpg)](http://msuacquisition.files.wordpress.com/2010/09/labpicture3.jpg)
+
