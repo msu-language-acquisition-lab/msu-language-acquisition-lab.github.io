@@ -29,7 +29,7 @@ University Undergraduate Research and Arts Forum (UURAF2014):
 - Kenneth Hanson, "The Loss of Bare Singular Noun Phrases in the History of English"
 - Kevin Kain and Adam Greene, "Accounting for Comprehension Asymmetries in Children's Acquisition of the Passive"
 
-[![DSC_6621_lzn](assets/images/dsc_6621_lzn.jpg)](http://msuacquisition.files.wordpress.com/2014/04/dsc_6621_lzn.jpg)
+[![DSC_6621_lzn](assets/images/dsc_6621_lzn.jpg)](https://msuacquisition.files.wordpress.com/2014/04/dsc_6621_lzn.jpg)
 
 \[Above: Tess Huelskamp (left) and Emily Glaser (right)\]
 
@@ -45,7 +45,7 @@ Michigan State Undergraduate Linguistics Conference (MSULC2014):
 - Kevin Kain and Adam Greene, "Accounting for Comprehension Asymmetries in Children's Acquisition of the Passive"
 - Adam Liter, "A Unified Syntactic Analysis of the Get-passive and the Be-passive" (Best Poster)
 
-[![DSC_6658_lzn](assets/images/dsc_6658_lzn.jpg)](http://msuacquisition.files.wordpress.com/2014/04/dsc_6658_lzn.jpg)
+[![DSC_6658_lzn](assets/images/dsc_6658_lzn.jpg)](https://msuacquisition.files.wordpress.com/2014/04/dsc_6658_lzn.jpg)
 
 \[Above: Kenneth Hanson (left) and Adam Liter (right)\]
 
@@ -57,7 +57,7 @@ Great Lakes Expo for Experimental and Formal Undergraduate Linguistics (GLEEFUL2
 - Kyle Latack and Mina Hirzel, "Taking Baths with Duck-Ducks: Exploring Children's Understanding of Contrastive Reduplication"
 - Eric Villanueva, "The Syntax of Japanese Aspect"
 
-[![DSC_6744](assets/images/dsc_6744.jpg)](http://msuacquisition.files.wordpress.com/2014/04/dsc_6744.jpg)
+[![DSC_6744](assets/images/dsc_6744.jpg)](https://msuacquisition.files.wordpress.com/2014/04/dsc_6744.jpg)
 
 \[Above: GLEEFUL2014 presenters, with keynote speaker Anthony Kroch\]
 

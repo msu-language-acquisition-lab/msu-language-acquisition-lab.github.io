@@ -13,7 +13,7 @@ A big congratulations also goes to Alan, who was an organizer of this workshop--
 
  
 
-Workshop website: [http://syntaxvariationworkshop.wordpress.com/](http://syntaxvariationworkshop.wordpress.com/)
+Workshop website: [https://syntaxvariationworkshop.wordpress.com/](https://syntaxvariationworkshop.wordpress.com/)
 
 (I think the workshop slides and handouts are going to be posted on their website soon.)
 
