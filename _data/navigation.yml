@@ -7,7 +7,7 @@
   side: left
 
 - title: "People"
-  url: "/people"
+  url: "/people/current"
   side: left
   dropdown:
   - title: "Current Faculty and Students"
