@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: lab-logo.png
+  image_fullwidth: lablogo.png
 widget1:
   title: "About us"
   url: '/about'
