@@ -21,7 +21,7 @@ widget3:
   title: "People"
   url: '/people/current'
   image: perfectgroupatuuraft-e1559521647431.jpg
-  text: ''
+  text: 'Current lab members'
 #
 # Use the call for action to show a button on the frontpage
 #
