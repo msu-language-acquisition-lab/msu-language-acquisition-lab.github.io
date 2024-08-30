@@ -1,5 +1,5 @@
 ---
-layout              : title
+layout              : frontpage
 title               : "People"
 meta_title          : "People"
 subheadline         : "MSU Language Acquisition Lab"
