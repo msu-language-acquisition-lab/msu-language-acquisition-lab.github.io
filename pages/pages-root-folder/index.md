@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: labpicture3.jpg
+  image_fullwidth: lablogo.png
 widget1:
   title: "About us"
   url: '/about'
@@ -16,10 +16,10 @@ widget2:
   title: "Research"
   url: '/research'
   image: uuraf_050.jpg
-  text: 'Current and past researches'
+  text: 'Current lab projects'
 widget3:
   title: "People"
-  url: '/'
+  url: '/people/current'
   image: perfectgroupatuuraft-e1559521647431.jpg
   text: ''
 #
