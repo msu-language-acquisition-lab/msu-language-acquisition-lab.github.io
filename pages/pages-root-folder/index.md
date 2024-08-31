@@ -7,7 +7,6 @@
 layout: frontpage
 header:
   image_fullwidth: lab-logo-with-text.png
-  caption: '
 widget1:
   title: "News"
   url: '/news'
