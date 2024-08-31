@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: lab-logo-with-text.png
 widget1:
-  title: "Blog & Portfolio"
+  title: "News"
   url: '/blog'
   image: wells2.jpg
-  text: 'This is what is new in the lab'
+  text: 'What&#39;s is new in the lab'
 widget2:
   title: "People"
   url: '/people/current'

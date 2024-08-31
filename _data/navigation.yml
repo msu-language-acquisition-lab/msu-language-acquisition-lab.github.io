@@ -31,15 +31,14 @@
     url: "/research/prosody-and-syntax/"
 
 - title: "Publications"
-  url: "/"
+  url: "/publications/lab-publications"
   side: left
   dropdown:
   - title: "Articles"
-    url: "/"
-  - titile: "Conference"
-    url: "/"
-  - title: "Proceedings"
-    url: "/"
+    url: "/publications/lab-publications"
+  - titile: "Presentations and Posters"
+    url: "/publications/posters"
+  
 
 - title: "News"
   url: "/blog"
