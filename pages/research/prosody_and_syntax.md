@@ -1,5 +1,7 @@
 ---
 layout              : page
+header:
+  image_fullwidth: lab-logo-with-text.png
 title               : "Prosody and Syntax"
 meta_title          : "Prosody and Syntax"
 permalink           : "/research/prosody-and-syntax/"

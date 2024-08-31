@@ -1,5 +1,7 @@
 ---
 layout              : page
+header:
+  image_fullwidth: lab-logo-with-text.png
 title               : "Input Variability"
 meta_title          : "Input Variability"
 permalink           : "/research/input-variability/"

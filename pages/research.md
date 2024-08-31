@@ -1,5 +1,7 @@
 ---
-layout              : frontpage
+layout              : page
+header:
+  image_fullwidth: lab-logo-with-text.png
 title               : "Research"
 meta_title          : "Research"
 subheadline         : "MSU Language Acquisition Lab"

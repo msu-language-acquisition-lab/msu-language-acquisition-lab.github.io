@@ -1,5 +1,7 @@
 ---
 layout              : page
+header:
+  image_fullwidth: lab-logo-with-text.png
 title               : "Functional Categories"
 meta_title          : "Functional Categories"
 permalink           : "/research/functional-categories/"

@@ -1,5 +1,7 @@
 ---
 layout              : page
+header:
+  image_fullwidth: lab-logo-with-text.png
 title               : "Undergraduate Alumni"
 meta_title          : "Undergraduate Alumni"
 subheadline         : "MSU Language Acquisition Lab"
