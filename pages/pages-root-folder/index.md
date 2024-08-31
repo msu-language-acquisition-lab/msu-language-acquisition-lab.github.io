@@ -9,7 +9,7 @@ header:
   image_fullwidth: lab-logo-with-text.png
 widget1:
   title: "News"
-  url: '/news'
+  url: '/blog'
   image: wells2.jpg
   text: 'What's new in the lab'
 widget2:

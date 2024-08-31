@@ -42,7 +42,7 @@
     url: "/"
 
 - title: "News"
-  url: "/news"
+  url: "/blog"
   side: left
 
 - title: "Search"
