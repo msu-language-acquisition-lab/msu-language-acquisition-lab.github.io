@@ -13,7 +13,7 @@ widget1:
   image: wells2.jpg
   text: 'What's new in the lab'
 widget2:
-  title: "People"
+  title: "People" 
   url: '/people/current'
   image: perfectgroupatuuraft-e1559521647431.jpg
   text: 'Current lab members'
