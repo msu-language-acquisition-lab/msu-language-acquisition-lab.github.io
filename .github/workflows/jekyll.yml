@@ -32,8 +32,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build-bib
-        working-directory: ./pages/publications/
-        run: ./.github/makelabbib.sh
+        working-directory: /pages/publications/
+        run: /.github/makelabbib.sh
       - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Ruby
