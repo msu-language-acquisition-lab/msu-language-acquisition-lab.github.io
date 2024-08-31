@@ -9,17 +9,18 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog & Portfolio"
-  url: 'blog/'
+  url: '/blog'
   image: wells2.jpg
   text: 'This is what is new in the lab'
 widget2:
   title: "People"
   url: '/people/current'
+  image: uu.jpg
   text: 'Current lab members'
 widget3:
   title: "Research"
   url: '/research'
-  image: perfectgroupatuuraft-e1559521647431.jpg
+  image: uuraf_050.jpg
   text: 'Current lab projects'
 # Use the call for action to show a button on the frontpage
 #
