@@ -3,6 +3,8 @@ layout              : blog
 title               : "New website"
 meta_title          : "News"
 subheadline         : "MSU Language Acquisition Lab"
+categories:
+    - news
 ---
 # Welcome to the new website!
 
