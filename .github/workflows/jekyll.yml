@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build-bib
-        working-directory: pages/publications/
+        working-directory: pages/publications
         run: .github/makelabbib.sh
       - name: Checkout
         uses: actions/checkout@v3
