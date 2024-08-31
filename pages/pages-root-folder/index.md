@@ -6,24 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: lab-logo-with-text.png
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "News"
-  url: '/blog'
+  title: "Blog & Portfolio"
+  url: 'blog/'
   image: wells2.jpg
-  text: 'What's new in the lab'
+  text: 'This is what is new in the lab'
 widget2:
-  title: "People" 
+  title: "People"
   url: '/people/current'
-  image: perfectgroupatuuraft-e1559521647431.jpg
   text: 'Current lab members'
 widget3:
   title: "Research"
   url: '/research'
-  image: uuraf_050.jpg
+  image: perfectgroupatuuraft-e1559521647431.jpg
   text: 'Current lab projects'
-
-#
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this

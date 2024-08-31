@@ -3,7 +3,7 @@ layout              : page
 title               : "People"
 meta_title          : "People"
 subheadline         : "MSU Language Acquisition Lab"
-permalink           : "/people/current"
+permalink           : '/people/current'
 ---
 
 The lab currently consists of the following people.
