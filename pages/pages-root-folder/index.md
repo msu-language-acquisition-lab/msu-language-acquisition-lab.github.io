@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: lab-logo-with-text.png
 widget1:
   title: "Blog & Portfolio"
   url: '/blog'
@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "People"
   url: '/people/current'
-  image: uu.jpg
+  image: perfectgroupatuuraft-e1559521647431.jpg
   text: 'Current lab members'
 widget3:
   title: "Research"
