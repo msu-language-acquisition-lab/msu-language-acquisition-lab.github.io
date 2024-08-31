@@ -8,20 +8,21 @@ layout: frontpage
 header:
   image_fullwidth: lab-logo-with-text.png
 widget1:
-  title: "About us"
-  url: '/about'
+  title: "News"
+  url: '/news'
   image: wells2.jpg
-  text: 'Learn more about Language Acquisition Lab at Michigan State University'
+  text: 'What's new in the lab'
 widget2:
-  title: "Research"
-  url: '/research'
-  image: uuraf_050.jpg
-  text: 'Current lab projects'
-widget3:
   title: "People"
   url: '/people/current'
   image: perfectgroupatuuraft-e1559521647431.jpg
   text: 'Current lab members'
+widget3:
+  title: "Research"
+  url: '/research'
+  image: uuraf_050.jpg
+  text: 'Current lab projects'
+
 #
 # Use the call for action to show a button on the frontpage
 #
