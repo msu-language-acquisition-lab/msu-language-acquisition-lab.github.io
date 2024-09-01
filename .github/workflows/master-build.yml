@@ -28,9 +28,12 @@ concurrency:
 
 jobs:
   # Build job
-  convert_via_pandoc:
+  build:
     runs-on: ubuntu-latest
-    steps:
+      steps:
+      -name convert_via_pandoc:
+        runs-on: ubuntu-latest
+      steps:
       - uses: actions/checkout@v4
       - uses: docker://pandoc/extra:latest
         with:
@@ -70,9 +73,6 @@ jobs:
           git add pages/publications
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
           git push
-  build:
-    runs-on: ubuntu-latest
-    steps:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Ruby
