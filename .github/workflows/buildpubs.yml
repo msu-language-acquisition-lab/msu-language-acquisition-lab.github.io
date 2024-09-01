@@ -36,7 +36,8 @@ jobs:
              --citeproc 
              --csl apa-cv 
              pages/publications/lab-pubs.txt > tmp-bib.txt
-        run: >- 
+      - name: create md file
+         run: >- 
           cat pages/publications/bibliography-header.txt tmp-bib.txt 
           > pages/publications/lab-publications.md
       - name: GIT commit and push again
