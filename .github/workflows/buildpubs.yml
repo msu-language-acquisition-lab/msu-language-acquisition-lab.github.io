@@ -11,10 +11,10 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
-     name: Checkout
-        uses: actions/checkout@v3
-    name: pandoc
-     working-directory: pages/publications
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: pandoc
+       working-directory: pages/publications
        uses: docker://pandoc/extra:latest
         with:
           args: >-  # allows you to break string into multiple lines
