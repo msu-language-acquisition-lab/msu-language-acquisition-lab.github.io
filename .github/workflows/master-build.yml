@@ -34,62 +34,62 @@ jobs:
       -name convert_via_pandoc:
         - uses: actions/checkout@v4
         - uses: docker://pandoc/extra:latest
-            with:
-              args: >-  # allows you to break string into multiple lines
+          with:
+            args: >-  # allows you to break string into multiple lines
               pages/publications/lab-publications.bib
               -s 
               -f biblatex 
               -t markdown 
               -o pages/publications/lab-pubs.txt
-      - name: GIT commit and push docs
-        env: 
+        - name: GIT commit and push docs
+          env: 
           CI_COMMIT_MESSAGE: Continuous Integration Build Artifacts
           CI_COMMIT_AUTHOR: Continuous Integration
-        run: |
-          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-          git config --global user.email "amunn@gmx.com"
-          git add pages/publications
-          git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
-          git push
-      - uses: docker://pandoc/extra:latest
-        with:
+          run: |
+            git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+            git config --global user.email "amunn@gmx.com"
+            git add pages/publications
+            git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+            git push
+        - uses: docker://pandoc/extra:latest
+          with:
           args: >-
              --citeproc 
              --csl pages/publications/apa-cv 
              pages/publications/lab-pubs.txt 
              -o pages/publications/tmp-bib.html
-      - run: >- 
-          cat pages/publications/bibliography-header.txt pages/publications/tmp-bib.html 
-          > pages/publications/lab-publications.md; rm -f pages/publications/tmp-bib.html; rm -f pages/publications/lab-pubs.txt
-      - name: GIT commit and push again
-        env: 
+        - run: >- 
+            cat pages/publications/bibliography-header.txt pages/publications/tmp-bib.html 
+            > pages/publications/lab-publications.md; rm -f pages/publications/tmp-bib.html; rm -f pages/publications/lab-pubs.txt
+        - name: GIT commit and push again
+          env: 
           CI_COMMIT_MESSAGE: Updated publications
           CI_COMMIT_AUTHOR: Continuous Integration
-        run: |
-          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-          git config --global user.email "amunn@gmx.com"
-          git add pages/publications
-          git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
-          git push
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
-        with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v3
-      - name: Build with Jekyll
+          run: |
+            git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+            git config --global user.email "amunn@gmx.com"
+            git add pages/publications
+            git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+            git push
+        - name: Checkout
+          uses: actions/checkout@v3
+        - name: Setup Ruby
+          uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
+          with:
+            ruby-version: '3.1' # Not needed with a .ruby-version file
+            bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+            cache-version: 0 # Increment this number if you need to re-download cached gems
+        - name: Setup Pages
+          id: pages
+          uses: actions/configure-pages@v3
+        - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
+          run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+          env:
           JEKYLL_ENV: production
-      - name: Upload artifact
+        - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v2
+          uses: actions/upload-pages-artifact@v2
 
   # Deployment job
   deploy:
