@@ -22,6 +22,5 @@ jobs:
             -f biblatex 
             -t markdown 
             -o lab-pubs.txt
-        working-directory: pages/publications
       
 
