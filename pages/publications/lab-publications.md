@@ -2,9 +2,9 @@
 layout              : page
 header:
   image_fullwidth: lab-logo-with-text.png
-title               : "Published papers"
+title               : "Lab publications"
 meta_title          : "Papers"
-permalink           : "/publications/pandoc-bib/"
+permalink           : "publications/lab-publications/"
 ---
 
 <div id="refs" class="references csl-bib-body hanging-indent"
