@@ -39,7 +39,7 @@ jobs:
              -o pages/publications/tmp-bib.html
       - run: >- 
           cat pages/publications/bibliography-header.txt pages/publications/tmp-bib.html 
-          > pages/publications/lab-publications.md; rm pages/publications/lab-pubs.html
+          > pages/publications/lab-publications.md; rm pages/publications/tmp-bib.html
       - name: GIT commit and push again
         env: 
           CI_COMMIT_MESSAGE: Updated publications
