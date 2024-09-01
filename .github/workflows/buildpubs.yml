@@ -1,0 +1,23 @@
+# This is a basic workflow that is manually triggered
+
+name: Build Pubs
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: >-  # allows you to break string into multiple lines
+            lab-publications.bib
+            -s 
+            -f biblatex 
+            -t markdown 
+            -o lab-pubs.txt
+      
+
