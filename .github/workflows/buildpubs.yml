@@ -14,11 +14,11 @@ jobs:
       - uses: docker://pandoc/extra:latest
         with:
           args: >-  # allows you to break string into multiple lines
-            lab-publications.bib
+            pages/publications/lab-publications.bib
             -s 
             -f biblatex 
             -t markdown 
-            -o lab-pubs.txt
+            -o pages/publications/lab-pubs.txt
             
       
 
