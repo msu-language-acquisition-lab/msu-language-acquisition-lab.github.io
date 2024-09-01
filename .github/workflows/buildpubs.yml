@@ -36,10 +36,10 @@ jobs:
              --citeproc 
              --csl pages/publications/apa-cv 
              pages/publications/lab-pubs.txt 
-             -o pages/publications/tmp-bib.txt
+             -o pages/publications/tmp-bib.html
       - run: >- 
-          cat pages/publications/bibliography-header.txt pages/publications/tmp-bib.txt 
-          > pages/publications/lab-publications.md; rm pages/publications/lab-pubs.txt
+          cat pages/publications/bibliography-header.txt pages/publications/tmp-bib.html 
+          > pages/publications/lab-publications.md; rm pages/publications/lab-pubs.html
       - name: GIT commit and push again
         env: 
           CI_COMMIT_MESSAGE: Updated publications
