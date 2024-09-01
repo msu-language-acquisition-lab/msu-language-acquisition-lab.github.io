@@ -30,7 +30,7 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-      steps:
+    steps:
       -name convert_via_pandoc:
         - uses: actions/checkout@v4
         - uses: docker://pandoc/extra:latest
