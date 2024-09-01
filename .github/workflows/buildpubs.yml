@@ -12,7 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: rm -f pages/publications/lab-pubs.txt
       - uses: docker://pandoc/extra:latest
         with:
           args: >-  # allows you to break string into multiple lines
@@ -40,7 +39,7 @@ jobs:
              -o pages/publications/tmp-bib.html
       - run: >- 
           cat pages/publications/bibliography-header.txt pages/publications/tmp-bib.html 
-          > pages/publications/lab-publications.md; rm -f pages/publications/tmp-bib.html
+          > pages/publications/lab-publications.md; rm -f pages/publications/tmp-bib.html; rm -f pages/publications/lab-pubs.txt
       - name: GIT commit and push again
         env: 
           CI_COMMIT_MESSAGE: Updated publications
