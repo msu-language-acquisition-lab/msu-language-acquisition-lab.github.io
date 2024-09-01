@@ -32,17 +32,15 @@ jobs:
     runs-on: ubuntu-latest
       steps:
       -name convert_via_pandoc:
-        runs-on: ubuntu-latest
-      steps:
-      - uses: actions/checkout@v4
-      - uses: docker://pandoc/extra:latest
-        with:
-          args: >-  # allows you to break string into multiple lines
-            pages/publications/lab-publications.bib
-            -s 
-            -f biblatex 
-            -t markdown 
-            -o pages/publications/lab-pubs.txt
+        - uses: actions/checkout@v4
+        - uses: docker://pandoc/extra:latest
+            with:
+              args: >-  # allows you to break string into multiple lines
+              pages/publications/lab-publications.bib
+              -s 
+              -f biblatex 
+              -t markdown 
+              -o pages/publications/lab-pubs.txt
       - name: GIT commit and push docs
         env: 
           CI_COMMIT_MESSAGE: Continuous Integration Build Artifacts
