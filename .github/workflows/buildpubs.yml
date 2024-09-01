@@ -10,7 +10,6 @@ on:
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
-    working-directory: pages/publications
     steps:
       - uses: docker://pandoc/extra:latest
           with:
