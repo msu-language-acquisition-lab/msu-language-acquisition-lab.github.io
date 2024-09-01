@@ -19,7 +19,7 @@ jobs:
             -s 
             -f biblatex 
             -t markdown 
-            > pages/publications/lab-pubs.txt
+            -o pages/publications/lab-pubs.txt
       - name: GIT commit and push docs
         env: 
           CI_COMMIT_MESSAGE: Continuous Integration Build Artifacts
