@@ -20,24 +20,25 @@ jobs:
             -f biblatex 
             -t markdown 
             -o pages/publications/lab-pubs.txt
-      # - name: GIT commit and push docs
-      #   env: 
-      #     CI_COMMIT_MESSAGE: Continuous Integration Build Artifacts
-      #     CI_COMMIT_AUTHOR: Continuous Integration
-      #   run: |
-      #     git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-      #     git config --global user.email "amunn@gmx.com"
-      #     git add pages/publications
-      #     git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
-      #     git push
+      - name: GIT commit and push docs
+        env: 
+          CI_COMMIT_MESSAGE: Continuous Integration Build Artifacts
+          CI_COMMIT_AUTHOR: Continuous Integration
+        run: |
+          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+          git config --global user.email "amunn@gmx.com"
+          git add pages/publications
+          git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git push
       - uses: docker://pandoc/extra:latest
         with:
           args: >-
              --citeproc 
              --csl apa-cv 
-             pages/publications/lab-pubs.txt > tmp-bib.txt
+             pages/publications/lab-pubs.txt 
+             -o pages/publications/tmp-bib.txt
       - run: >- 
-          cat pages/publications/bibliography-header.txt tmp-bib.txt 
+          cat pages/publications/bibliography-header.txt pages/publications/tmp-bib.txt 
           > pages/publications/lab-publications.md
       - name: GIT commit and push again
         env: 
