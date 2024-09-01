@@ -34,7 +34,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Build pubs
-        uses: ./.github/makelabbib.sh
+        uses: .github/makelabbib.sh
         working-directory: pages/publications
         run:  makelabbib.sh
       - name: Setup Ruby
