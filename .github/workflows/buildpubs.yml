@@ -11,7 +11,7 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: docker://pandoc/extra:latest
         with:
           args: >-  # allows you to break string into multiple lines
@@ -20,7 +20,7 @@ jobs:
             -f biblatex 
             -t markdown 
             -o pages/publications/lab-pubs.txt
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         with:
           name: lab-pubs
           path: pages/publications/lab-pubs.txt
