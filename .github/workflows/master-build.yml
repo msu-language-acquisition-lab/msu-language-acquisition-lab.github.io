@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      -name convert_via_pandoc:
+      - name convert_via_pandoc:
         - uses: actions/checkout@v4
         - uses: docker://pandoc/extra:latest
           with:
