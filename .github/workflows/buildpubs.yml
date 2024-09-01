@@ -16,7 +16,7 @@ jobs:
           args: >-  # allows you to break string into multiple lines
             lab-publications.bib
             -s 
-            -f biblatex 
+            -f bibtex 
             -t markdown 
             -o lab-pubs.txt
       
