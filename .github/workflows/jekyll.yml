@@ -34,6 +34,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Build pubs
+        uses: docker://pandoc/core:2.9
         working-directory: pages/publications
         run:  bash ./makelabbib.sh
       - name: Setup Ruby
