@@ -4,7 +4,7 @@ header:
   image_fullwidth: lab-logo-with-text.png
 title               : "Functional Categories"
 meta_title          : "Functional Categories"
-permalink           : "/research/functional-categories/"
+permalink           : "research/functional-categories/"
 ---
 
 Closed class words and morphemes that encode properties such as tense, plurality, definiteness, quantity and degree are generally frequent in the input, but their semantic properties are not obviously discerned from the context.  Their frequency makes learning their syntactic distributions quite simple, but the opacity of their meanings makes learning their semantic properties postentially difficult.  Currently we are interested in the following questions:
