@@ -11,7 +11,7 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
-      - uses: docker://pandoc/latex:2.9
+      - uses: docker://pandoc/extra:latest
         with:
           args: >-  # allows you to break string into multiple lines
             lab-publications.bib
