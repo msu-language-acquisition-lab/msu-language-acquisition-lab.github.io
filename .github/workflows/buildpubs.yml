@@ -14,7 +14,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
     - name: pandoc
-       - uses: docker://pandoc/extra:latest
+      uses: docker://pandoc/extra:latest
         with:
           args: >-  # allows you to break string into multiple lines
             lab-publications.bib
@@ -22,6 +22,6 @@ jobs:
             -f biblatex 
             -t markdown 
             -o lab-pubs.txt
-         working-directory: pages/publications
+      working-directory: pages/publications
       
 
