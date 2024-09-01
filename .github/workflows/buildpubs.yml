@@ -20,6 +20,10 @@ jobs:
             -f biblatex 
             -t markdown 
             -o pages/publications/lab-pubs.txt
+      - uses: actions/upload-artifact@v2
+        with:
+          name: lab-pubs
+          path: pages/publications/lab-pubs.txt
             
       
 
