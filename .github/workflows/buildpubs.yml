@@ -12,8 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: docker://pandoc/extra:latest
-          with:
-            args: >-  # allows you to break string into multiple lines
+        with:
+          args: >-  # allows you to break string into multiple lines
             lab-publications.bib
             -s 
             -f biblatex 
