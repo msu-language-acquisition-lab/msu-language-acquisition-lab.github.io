@@ -9,6 +9,8 @@ image:
     title: WellsHallWinter1.jpg
     thumb: WellsHallWinter1.jpg  
 subheadline         : "MSU Language Acquisition Lab"
+categories: 
+  - announcements
 ---
 
 Lab meetings this semester (Fall 2024) will be on Tuesdays from 6:00 PM – 7:30 PM.
