@@ -1,7 +1,7 @@
 ---
 layout              : page
-header:
-  image_fullwidth: lab-logo-with-text.png
+# header:
+#   image_fullwidth: lab-logo-with-text.png
 title               : "New Website! 2024"
 meta_title          : "New Website 2024"
 image:
