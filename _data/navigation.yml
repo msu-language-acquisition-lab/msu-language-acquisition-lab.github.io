@@ -40,7 +40,7 @@
     url: "/publications/posters"
   
 - title: News
-  url: "/blog"
+  url: "/blog/"
   side: left
   dropdown:
   - title: "News Archive"
