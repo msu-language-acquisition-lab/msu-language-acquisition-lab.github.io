@@ -7,7 +7,6 @@ meta_title          : "New Website 2024"
 image:
     title:  MSUCampus1.jpg
     thumb:  MSUCampus1.jpg
-    homepage:  MSUCampus1.jpg
 subheadline         : "MSU Language Acquisition Lab"
 ---
 
