@@ -17,7 +17,7 @@ slogan: 'Official Website for the MSU Language Acquisition Laboratory'
 description: Official Website for the MSU Language Acquisition Laboratory'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by <a href="mailto:nguye714@msu.edu">Han Nguyen</a> with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created by <a href="mailto:nguye714@msu.edu">Han Nguyen</a> and <a href="mailto:amunn@msu.edu"> Alan Munn</a> with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml

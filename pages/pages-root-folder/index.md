@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "People"
   url: '/people/current'
-  image: perfectgroupatuuraft-e1559521647431.jpg
+  image: GLEEFUL2019-2.jpg
   text: 'Current lab members'
 widget3:
   title: "Research"

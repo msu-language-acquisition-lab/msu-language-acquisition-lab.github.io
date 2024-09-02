@@ -1,27 +1,27 @@
 - name: GitHub
-  url: https://github.com/phlow
+  url: https://github.com/msu-language-acquisition-lab
   class: icon-github
-  title: Code und mehr...
+  title: "Not much here"
 
 - name: YouTube
-  url: https://www.youtube.com/PhlowMedia
+  url: https://www.youtube.com/@msulanguageacquisitionlab7148
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Not much here either"
 
-- name: Twitter
-  url: https://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+# - name: Twitter
+#   url: https://twitter.com/phlow
+#   class: icon-twitter
+#   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
-- name: Mixcloud
-  url: https://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+# - name: Mixcloud
+#   url: https://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
-# - name: Facebook
-#   url: https://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Facebook
+  url: https://www.facebook.com/MSULanguageAcquisitionLab
+  class: icon-facebook
+  title: "Not much here either"
 
 # - name: Soundcloud
 #   url: https://soundcloud.com/
