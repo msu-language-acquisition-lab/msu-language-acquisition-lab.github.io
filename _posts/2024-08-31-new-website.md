@@ -8,7 +8,7 @@ teaser : "Our new website is up and running!"
 image:
     title:  MSUCampus1.jpg
     thumb:  MSUCampus1.jpg
-subheadline         : "MSU Language Acquisition Lab"
+# subheadline         : "MSU Language Acquisition Lab"
 categories: 
   - announcements
 ---
