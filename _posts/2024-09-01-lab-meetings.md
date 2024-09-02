@@ -4,6 +4,7 @@ header:
   image_fullwidth: lab-logo-with-text.png
 title               : "Fall Lab Meetings"
 meta_title          : "Fall Lab Meetings"
+teaser: "Tuesdays 6:00 PM – 7:30 PM"
 image: 
     title: WellsHallWinter1.jpg
     thumb: WellsHallWinter1.jpg  

@@ -17,10 +17,10 @@ The lab currently consists of the following people.
 
 ## Current Graduate Students
 
+- Xiaoke Bu
 - Louis Konkoly
 - John Ryan
 - Yaxuan Wang
-- Ellie Xia 
 - Jingying Xu
 
 ## Current Undergraduate Students
