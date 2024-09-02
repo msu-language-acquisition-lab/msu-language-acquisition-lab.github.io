@@ -1,7 +1,9 @@
 ---
-layout              : frontpage
+layout              : page
 title               : "Contact"
 meta_title          : "Contact"
+header:
+  image_fullwidth: lab-logo-with-text.png
 subheadline         : "MSU Language Acquisition Lab"
 permalink           : "/contact/"
 ---

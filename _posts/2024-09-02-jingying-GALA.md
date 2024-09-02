@@ -6,8 +6,10 @@ title               : "Jingying goes to Lisbon"
 # meta_title          : "Jingying goes to Lisbon"
 teaser: "GALA 2024"
 image: 
-    title: https://fabricadesites.fcsh.unl.pt/galalisbon2024/wp-content/uploads/sites/133/2023/09/cropped-campus_campolide_5-1536x922.jpg
-    thumb: https://fabricadesites.fcsh.unl.pt/galalisbon2024/wp-content/uploads/sites/133/2023/09/cropped-campus_campolide_5-1536x922.jpg  
+    title: cropped-campus_campolide_5-1536x922.jpg
+    thumb: cropped-campus_campolide_5-thumb.jpg
+    caption: "NOVA University of Lisbon"
+    caption_url: https://galalisbon2024.fcsh.unl.pt/
 # subheadline         : "MSU Language Acquisition Lab"
 categories:
     - conferences
