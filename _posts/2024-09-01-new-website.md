@@ -4,7 +4,10 @@ header:
   image_fullwidth: lab-logo-with-text.png
 title               : "New Website! 2024"
 meta_title          : "New Website 2024"
-image:  MSUCampus1.jpg
+image:
+    title:  MSUCampus1.jpg
+    thumb:  MSUCampus1.jpg
+    homepage:  MSUCampus1.jpg
 subheadline         : "MSU Language Acquisition Lab"
 ---
 
