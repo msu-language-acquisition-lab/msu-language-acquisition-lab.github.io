@@ -20,4 +20,4 @@ Lab meetings this semester (Fall 2024) will be on Tuesdays from 6:00 PM – 7:30
 
 ### First meeting
 
-The first meeting will be Tuesday, September 9.
+The first meeting will be Tuesday, September 10.
