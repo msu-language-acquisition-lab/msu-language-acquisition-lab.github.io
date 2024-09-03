@@ -19,5 +19,5 @@ tags:
     - poster
 
 ---
-Jingying is presenting a poster *Children do not have different verb representations from adults: Non-
+Jingying Xu is presenting a poster *Children do not have different verb representations from adults: Non-
 culminating incremental theme predicates in Mandarin-speaking children* at [GALA](https://galalisbon2024.fcsh.unl.pt/) (Generative Approaches to Language Acquisition) being held in Lisbon, Portugal, September 12–14, 2024.

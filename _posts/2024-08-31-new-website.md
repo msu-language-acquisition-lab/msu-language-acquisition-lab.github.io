@@ -2,12 +2,14 @@
 layout              : page
 header:
   image_fullwidth: lab-logo-with-text.png
+  caption: 
 title               : "New Website!"
 meta_title          : "New Website"
 teaser : "Our new website is up and running!"
 image:
     title:  MSUCampus1.jpg
     thumb:  MSUCampus1.jpg
+    caption: "MSU Campus"
 # subheadline         : "MSU Language Acquisition Lab"
 categories: 
   - announcements
