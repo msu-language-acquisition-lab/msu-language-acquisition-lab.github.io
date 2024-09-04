@@ -14,7 +14,7 @@ title: 'MSU Language Acquisition Lab'
 slogan: 'Official Website for the MSU Language Acquisition Laboratory'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: Official Website for the MSU Language Acquisition Laboratory'
+description: 'Official Website for the MSU Language Acquisition Laboratory'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by <a href="mailto:nguye714@msu.edu">Han Nguyen</a> and <a href="mailto:amunn@msu.edu"> Alan Munn</a> with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
