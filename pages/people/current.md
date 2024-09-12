@@ -22,14 +22,19 @@ The lab currently consists of the following people.
 - Louis Konkoly
 - John Ryan
 - Yaxuan Wang
+- Ellie Xia
 - Jingying Xu
 
 ## Current Undergraduate Students
 
  - Hannah Choi
  - Darrien Courter
+ - Mason Dellot
  - Kiara Gonzalez Almanzar
  - Daniel Helo Puccini
+ - Drake Howard
+ - Kay Humpert
  - Jaina Kittle
  - William McLaren
+ - Sophie Motawi
  
