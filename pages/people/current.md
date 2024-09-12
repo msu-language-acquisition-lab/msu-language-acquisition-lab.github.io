@@ -17,6 +17,7 @@ The lab currently consists of the following people.
 
 ## Current Graduate Students
 
+- Savvy Barnes
 - Xiaoke Bu
 - Louis Konkoly
 - John Ryan
