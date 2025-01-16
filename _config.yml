@@ -113,6 +113,8 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: Alan Munn     # Default author for pages
+      header:
+        image_fullwidth: lab-logo-with-text.png
   -
     scope:
       path: ''
@@ -122,6 +124,8 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: Alan Munn     # Default author for posts
+      header:
+        image_fullwidth: lab-logo-with-text.png
 
 
 
