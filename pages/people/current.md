@@ -33,7 +33,6 @@ The lab currently consists of the following people.
     - How does visual context interact with language to shape how children and adults perceive events and interpret event descriptions?
 - Ellie Xia
     - Ellie is interested in computational modelling of child language acquisition. She is also working on aspect marking in Sinitic languages.
-- Jingying Xu
 
 ## Current Undergraduate Students
 
