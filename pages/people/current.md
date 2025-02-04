@@ -19,9 +19,7 @@ The lab currently consists of the following people.
 
 - Savvy Barnes
 - Xiaoke Bu
-- Louis Konkoly
-    - My current project is looking at patterns of English verb agreement, specifically in sentences with non-DP subjects. These are sentences such as “Under the bed is a good place to hide” and “That James left early upset me” where the subject is presumably the PP in the former and the CP in the latter. My interests lie in what happens to the verb when these non-DP subjects are coordinated: “under the bed and behind the curtains”. The existing literature on this topic identifies a notion of the conjoined elements shared ‘semantic compatibility’ as contributing to an alternation between singular and plural verb forms. My research is investigating the contribution of both these supposed semantic effects and potential non-semantic effects. 
-
+- [Louis Konkoly](https://www.msuacquisition.org/research/agreement-and-coordinate-non-DP-subjects/)
 - John Ryan
     - John Ryan is a PhD student studying how children acquire tense and aspect through psycholinguistic methodologies. John is interested in exploring questions like how children navigate the acquisition of tense and aspect given their emerging and developing event representations and what the trajectory of their development can tell us about properties of Language as a whole. In particular, John’s research focuses primarily on the acquisition of the imperfective and progressive in American English and Argentine Spanish. 
     Beyond this primary focus, John has been investigating properties of “sequential ‘and’”. For example, the sentence “Mary fell and broke her arm” is fine when describing events that happened in that order (Mary first fell and then broke her arm), but reversing the conjuncts relative to the same context is comparatively odd: “#Mary broke her arm and fell”. This project ties closely to his broader interest in how events are represented and organized with respect to tense and aspect.
