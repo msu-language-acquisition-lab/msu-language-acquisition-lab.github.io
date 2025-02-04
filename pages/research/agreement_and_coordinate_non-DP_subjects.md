@@ -4,7 +4,7 @@ header:
   image_fullwidth: lab-logo-with-text.png
 title               : "Agreement & coordinate non-DP subjects"
 meta_title          : "Agreement & coordinate non-DP subjects"
-permalink           : "research/Agreement-&-coordinate-non-DP-subjects/"
+permalink           : "research/agreement-and-coordinate-non-DP-subjects/"
 ---
 
 
