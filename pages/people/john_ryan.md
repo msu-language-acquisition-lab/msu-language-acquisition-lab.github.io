@@ -4,7 +4,7 @@ header:
     image_fullwidth: lab-logo-with-text.png
 title               : "John Ryan"
 meta_title          : "John Ryan"
-permalink           : "/people/john_ryan'
+permalink           : "/people/john_ryan"
 ---
 
 John Ryan is a PhD student studying how children acquire tense and aspect through psycholinguistic methodologies. John is interested in exploring questions like how children navigate the acquisition of tense and aspect given their emerging and developing event representations and what the trajectory of their development can tell us about properties of Language as a whole. In particular, John’s research focuses primarily on the acquisition of the imperfective and progressive in American English and Argentine Spanish.
