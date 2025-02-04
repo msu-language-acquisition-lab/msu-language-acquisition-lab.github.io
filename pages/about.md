@@ -9,7 +9,7 @@ permalink           : "/about/"
 ---
 
 
-The MSU Language Acquisition Lab does research into children's and adults' understanding of their first languages, especially focusing on syntax and semantics.  The 
+The MSU Language Acquisition Lab does research into children's and adults' understanding of their first languages, especially focusing on syntax and semantics.
 
 ## Research Opportunities for Graduate Students
 
