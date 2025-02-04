@@ -38,7 +38,7 @@ The lab currently consists of the following people.
  - Jaina Kittle
  - William McLaren
  - Sophie Motawi
- - [Guilherme Eckert Roda](https://www.msuacquisition.org/people/guiherme_roda)
+ - [Guilherme Eckert Roda](https://www.msuacquisition.org/people/guilherme_roda)
  - Ocean Angelo
  - Ezekiel Brown
  - Kamryn Jenkins
