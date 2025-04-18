@@ -29,7 +29,6 @@ The lab currently consists of the following people.
 ## Current Undergraduate Students
 
  - Hannah Choi
- - Darien Courter
  - Mason Dellot
  - Kiara Gonzalez Almanzar
  - Daniel Helo Puccini
