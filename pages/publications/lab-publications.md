@@ -9,6 +9,28 @@ permalink           : "publications/lab-publications/"
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 data-entry-spacing="0" data-line-spacing="2" role="list">
+  <div id="ref-XuSchmittPLSA2026" class="csl-entry" role="listitem">
+Xu, J., &amp; Schmitt, C. (To appear). Telicity in context: Evidence from
+Mandarin-speaking children and adults. <em>Proceedings of the Linguistic
+Society of America (PLSA 2026)</em>.
+</div>
+<div id="ref-XuSchmittCLS60" class="csl-entry" role="listitem">
+Xu, J., &amp; Schmitt, C. (2025). Grammatical versus pragmatic accounts for
+event non-culmination in Mandarin: An experimental study. In X. Chen,
+S. Karakaş, &amp; J. Shim (Eds.), <em>Proceedings of the 60th Annual Meeting
+of the Chicago Linguistic Society (CLS 60)</em> (pp. 429–440).
+</div>
+<div id="ref-XuSchmittWCCFL42" class="csl-entry" role="listitem">
+Xu, J., &amp; Schmitt, C. (2025). Demonstratives but not verbs cause
+non-culmination in Mandarin incremental-theme predicates: Evidence from
+children and adults. In <em>Proceedings of the 42nd West Coast Conference on
+Formal Linguistics (WCCFL 42)</em>.
+</div>
+<div id="ref-XuSchmittSALT34" class="csl-entry" role="listitem">
+Xu, J., &amp; Schmitt, C. (2025). Pragmatic accommodation in judging event
+culmination. In <em>Proceedings of the 34th Semantics and Linguistic Theory
+(SALT 34)</em>.
+</div>
 <div id="ref-SchmittPrimucciMunn2024" class="csl-entry" role="listitem">
 Schmitt, C., Primucci, E., Munn, A., Brandani, L., &amp; Avelana, A.
 (2024). When clitic systems collide, animacy, for the most part, beats
