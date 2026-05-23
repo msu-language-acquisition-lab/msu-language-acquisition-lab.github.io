@@ -10,9 +10,11 @@ permalink           : "publications/lab-publications/"
 <div id="refs" class="references csl-bib-body hanging-indent"
 data-entry-spacing="0" data-line-spacing="2" role="list">
   <div id="ref-XuSchmittPLSA2026" class="csl-entry" role="listitem">
-Xu, J., &amp; Schmitt, C. (To appear). Telicity in context: Evidence from
+Xu, J., &amp; Schmitt, C. (2026). Telicity in context: Evidence from
 Mandarin-speaking children and adults. <em>Proceedings of the Linguistic
-Society of America (PLSA 2026)</em>.
+Society of America (PLSA 2026)</em>. <a
+href="https://doi.org/10.3765/plsa.v11i1.6115">https://doi.org/10.3765/plsa.v11i1.6115</a>
+
 </div>
 <div id="ref-XuSchmittCLS60" class="csl-entry" role="listitem">
 Xu, J., &amp; Schmitt, C. (2025). Grammatical versus pragmatic accounts for
@@ -29,7 +31,9 @@ Formal Linguistics (WCCFL 42)</em>.
 <div id="ref-XuSchmittSALT34" class="csl-entry" role="listitem">
 Xu, J., &amp; Schmitt, C. (2025). Pragmatic accommodation in judging event
 culmination. In <em>Proceedings of the 34th Semantics and Linguistic Theory
-(SALT 34)</em>.
+(SALT 34)</em>, <em>11</em>(1). <a
+href="https://doi.org/10.3765/sgccnn77">https://doi.org/10.3765/sgccnn77</a>
+
 </div>
 <div id="ref-SchmittPrimucciMunn2024" class="csl-entry" role="listitem">
 Schmitt, C., Primucci, E., Munn, A., Brandani, L., &amp; Avelana, A.
